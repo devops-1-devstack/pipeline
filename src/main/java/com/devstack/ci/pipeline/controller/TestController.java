@@ -10,6 +10,6 @@ public class TestController {
 
     @GetMapping
     public String test() {
-        return "Success.."; //hello
+        return "Testing the CI CD "; //hello
     }
 }
