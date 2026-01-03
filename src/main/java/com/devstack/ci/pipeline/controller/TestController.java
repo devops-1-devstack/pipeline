@@ -10,6 +10,6 @@ public class TestController {
 
     @GetMapping
     public String test() {
-        return "Testing the CI CD "; //hello
+        return "Hello this is a test "; //hello
     }
 }
